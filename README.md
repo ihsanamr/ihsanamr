@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C programming languages and discrete mathematics.**
 
-- 📫 How to reach me **ihsan.muyassar@binus.ac.id**
+- 📫 How to reach me? Email: **ihsan.muyassar@binus.ac.id**
 
 - ⚡ Fun fact **I'm into Korean dramas when I've got some spare time.**
 
