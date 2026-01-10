@@ -32,8 +32,6 @@
 </p>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihsanamr&theme=tokyonight" alt="Profile Details" />
-  
-  <br/><br/>
-
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihsanamr&theme=tokyonight" alt="Languages" />
-</div>>
+</div>
