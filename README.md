@@ -31,9 +31,13 @@
   <img src="https://github.r2v.ch/codewars?user=ihsanamr_&name=true&top_languages=true&stroke=%23fff&theme=nightowl" alt="Codewars Stats"/>
 </p>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanamr&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihsanamr&theme=tokyonight" alt="Profile Details" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ihsanamr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
   
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihsanamr&theme=tokyonight" alt="Top Languages" />
-</div>
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihsanamr&theme=tokyonight" alt="Languages" />
+</div>>
