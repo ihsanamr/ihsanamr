@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://github.r2v.ch/codewars?user=ihsanamr_&name=true&top_languages=true&stroke=%23fff&theme=nightowl" alt="Codewars Stats"/>
+  <img src="https://github.r2v.ch/codewars?user=ihsanamr_&name=true&top_languages=true&theme=nightowl" alt="Codewars Stats"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihsanamr&theme=tokyonight" alt="Profile Details" />
