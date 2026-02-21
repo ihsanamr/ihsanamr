@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ihsan Amri Muyassar</h1>
 <h3 align="center">Computer Science student at Binus University Online Learning</h3>
 
-- I'm currently interested in **web development**, learning **JavaScript**, and exploring **React JS**.
+- I'm currently interested in **Web Development**, learning **JavaScript**, and exploring **React JS**.
 - Email: **ihsan.muyassar@binus.ac.id**
 - LinkedIn: Ihsan Amri Muyassar
 
