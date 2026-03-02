@@ -6,7 +6,9 @@
 - LinkedIn: Ihsan Amri Muyassar
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pr)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,pr" />
+</p>
 
 <p align="left">
   <img src="https://github.r2v.ch/codewars?user=ihsanamr_&name=true&top_languages=true&theme=nightowl" alt="Codewars Stats"/>
