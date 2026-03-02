@@ -10,6 +10,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,pr" />
 </p>
 <br>
+<h3 align="center">Stats:</h3>
 <p align="center">
   <img src="https://github.r2v.ch/codewars?user=ihsanamr_&name=true&top_languages=true&theme=nightowl" alt="Codewars Stats"/>
 </p>
