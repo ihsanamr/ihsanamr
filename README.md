@@ -13,9 +13,3 @@
 <p align="left">
   <img src="https://github.r2v.ch/codewars?user=ihsanamr_&name=true&top_languages=true&theme=nightowl" alt="Codewars Stats"/>
 </p>
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihsanamr&theme=tokyonight" alt="Profile Details" />
-</p>
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihsanamr&theme=tokyonight" alt="Languages" />
-</p>
