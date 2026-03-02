@@ -6,8 +6,8 @@
 - LinkedIn: Ihsan Amri Muyassar
 
 <h3 align="center">Languages and Tools:</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,pr" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,pr" />
 </p>
 <br>
 <p align="center">
