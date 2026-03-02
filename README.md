@@ -5,11 +5,11 @@
 - Email: **ihsan.muyassar@binus.ac.id**
 - LinkedIn: Ihsan Amri Muyassar
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,pr" />
 </p>
-
-<p align="left">
+<br>
+<p align="center">
   <img src="https://github.r2v.ch/codewars?user=ihsanamr_&name=true&top_languages=true&theme=nightowl" alt="Codewars Stats"/>
 </p>
