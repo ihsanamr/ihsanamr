@@ -3,7 +3,7 @@
 
 - I'm currently interested in **Web Development**, learning **JavaScript**, and exploring **React JS**.
 - Email: **ihsan.muyassar@binus.ac.id**
-- LinkedIn: <a href="https://linkedin.com/in/ihsan-amri-muyassar/" target="_blank">ihsan-amri-muyassar</a>
+- LinkedIn: <a href="https://linkedin.com/in/ihsan-amri-muyassar/" target="_blank">Ihsan Amri Muyassar</a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
